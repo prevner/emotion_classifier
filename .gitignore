@@ -1,0 +1,29 @@
+# Fichiers Python compilés
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+env/
+.virtualenv/
+
+# Fichiers générés par l'application
+emotion_model.h5
+model_*.h5
+
+
+
+# Logs et fichiers temporaires
+*.log
+*.pot
+*.pyc
+__pycache__
+
+# Fichiers de configuration locale
+.env
+*.env
+
+# Cache Streamlit
+.streamlit/
